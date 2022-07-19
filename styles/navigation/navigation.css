@@ -1,0 +1,26 @@
+.nav--block{
+    display: flex;
+    justify-content: center;
+}
+
+.nav--order{
+    column-gap: 30px;
+}
+
+.nav--procedures{
+    column-gap: 40px;
+}
+
+.nav--block__link{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: black;
+}
+
+.nav--block__link-main{
+    color:  #333333;
+    font-size: 14px;
+    line-height: 16px;
+}

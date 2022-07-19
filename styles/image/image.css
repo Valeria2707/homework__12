@@ -1,0 +1,9 @@
+.image{
+    display: flex;
+    align-self: center;
+}
+
+.image--advertisement{
+    width: 188.67px;
+    height: 100px; 
+}
