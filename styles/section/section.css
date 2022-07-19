@@ -1,0 +1,40 @@
+.section--order{
+    background-color: #E5E5E5;
+    padding: 17px 0;
+}
+
+.section--contacts{
+    border: 1px solid #EFEFEF;
+}
+
+.section--first--contacts{
+    padding: 20px 0;
+}
+
+.section--procedures{
+    padding: 30px 0;
+}
+
+.section--super--chair{
+    background: url(../../images/chair.png), #000;
+    height: 604px;
+    padding: 193px 0;
+}
+
+.section--special--offer{
+    background-color: #E5E5E5;
+    padding: 80px 0;
+}
+
+.section--popular--category{
+    padding: 60px 0;
+}
+
+.section--last--contacts{
+    padding: 38px 0;
+}
+
+.section--politics{
+    background-color: #E5E5E5;
+    padding: 25px 0;
+}
