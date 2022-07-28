@@ -16,7 +16,7 @@
 }
 
 .section--super--chair{
-    background: url(../../images/chair.png), #000;
+    background: url(../../images/chair.png) no-repeat center #F13C6E;
     height: 604px;
     padding: 193px 0;
 }
