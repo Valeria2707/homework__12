@@ -40,7 +40,23 @@
     background-color: #FFFFFF;
     width: 276.25px;
     height: 118px;
-    border: 1px solid #EFEFEF;
+    border: 1px solid  #EFEFEF;
+}
+
+.block--impuls:nth-child(-n + 4){
+    border-top: 0;
+}
+
+.block--impuls:nth-child(n + 8){
+    border-bottom: 0;
+}
+
+.block--impuls:nth-child(4n + 1){
+    border-left: 0;
+}
+
+.block--impuls:nth-child(n + 4){
+    border-right: 0;
 }
 
 .block--image-impuls{
